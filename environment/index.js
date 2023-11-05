@@ -13,3 +13,7 @@ app.listen(PORT, () => {
 });
 
 //install  npm i dotenv
+//create file .env and write PORT=3000
+//create file .gitignore  and write
+// .env
+// node_modules/
